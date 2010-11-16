@@ -1,4 +1,4 @@
-!SLIDE bullets incremental center
+!SLIDE bullets incremental center transition=fade
 # Why?
 
 * Figuring out your dependencies is hard!

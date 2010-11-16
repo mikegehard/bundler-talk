@@ -1,4 +1,4 @@
-!SLIDE bullets incremental center
+!SLIDE bullets incremental center transition=fade
 # WHERE?
 
 * Rails2 with a little work
