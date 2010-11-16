@@ -33,10 +33,10 @@
 # Existing ruby gem
 
 * run `bundle init`
-* edit Gemspec to add `gemspec`
+* edit Gemfile to add `gemspec`
 * run `bundle install`
 * do your development
 * run `gem build my_gem.gemspec` to build the gem
 
 !SLIDE center 
-## After downloading code that uses bundler, run `bundle install`
+## After downloading code that uses bundler, run `bundle install` as the first step and go from there.

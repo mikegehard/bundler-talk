@@ -8,7 +8,7 @@ from this directory.
     $ gem install showoff
     $ git clone git://github.com/msgehard/bundler-intro-presentation.git
     $ cd bundler-intro-presentation
-    $ showoff
+    $ showoff serve
 
 Then you should be able to go to <http://localhost:9090> to view the presentation.
 
