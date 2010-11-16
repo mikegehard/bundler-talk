@@ -38,5 +38,7 @@
 * do your development
 * run `gem build my_gem.gemspec` to build the gem
 
-!SLIDE center 
-## After downloading code that uses bundler, run `bundle install` as the first step and go from there.
+!SLIDE center bullets incremental
+# Good guidelines... 
+* Always check you Gemfile.lock file into source control.
+* After downloading code where there is a Gemfile, run `bundle install` after cloning the repo and go from there.
